@@ -1,0 +1,102 @@
+ 
+body{
+    background-color:black ;
+    width: 1150px;
+    margin: 0;
+    padding: 0;
+}
+
+ div{
+   box-shadow: 0 0 7px black;
+   background-color: white;
+   width: 450px;
+   height: 570px;
+   border-radius: 15px;
+   margin: 20px 560px;
+ }
+
+ img.photo{
+    padding: 45px 190px;
+ }
+  button {
+    width: 300px;
+    height:40px;
+    align-items: center;
+   background-color: white;
+   border-radius: 20px;
+  border: 1px solid rgb(194, 186, 186);
+ 
+ }
+ span{
+   font-size: 16px;
+   font-weight: 600;
+  
+ }
+ p{
+   text-align: center;
+   font-size: 16px;
+   font-weight: 600;
+   margin-top: -7px;
+ }
+ button.sd{
+   margin: 0px 70px;
+   
+ }
+ button.sd:hover{
+   background-color:rgba(248,250,255,255) ;
+ }
+ button.sg{
+   margin: 30px 70px;
+ }
+ button.sg:hover{
+   background-color: rgba(220,217,216,255) ;
+ }
+input.text{
+    width: 275px;
+    height: 40px;
+    margin: 10px 80px;
+} 
+
+input.next{
+   width: 300px;
+   height: 40px;
+   margin: 15px 73px;
+   background-color: black;
+   color: white;
+   font-size: 16px;
+   font-weight: 600;
+   border-radius: 30px;
+   transition: transform 0.2s;
+}
+ input.next:hover{
+   background-color: white;
+   color: black;
+ }
+input.forget{
+   width: 300px;
+   height: 40px;
+   margin: 15px 73px;
+   font-size: 16px;
+   font-weight: 600;
+   border-radius: 30px;
+   background-color: white;
+   transition: transform 0.2s;
+}
+input.forget:hover{
+   background-color: black;
+   color: white;
+}
+h5{
+   margin: 15px 120px;
+   font-size: 14px;
+   font-weight: 600;
+}
+h5 a{
+   text-decoration: none;
+   color:#6bdfe3 ;
+}
+h5 a:hover{
+   color: #c3dbdc;
+}
+
+    
